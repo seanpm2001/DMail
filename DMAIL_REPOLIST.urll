@@ -2,10 +2,10 @@
 //// DMAIL_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all DMAIL project repositories by @seanpm2001
-//// As of 2025, Tuesday, January 28th
+//// As of 2025, Thursday, February 27th
 
 //// ----------------------------------------------------- \\\\
-//// DMAIL Project (48)
+//// DMAIL Project (52)
 //// ----------------------------------------------------- \\\\
 
 //// DMAIL Core (1)
@@ -21,30 +21,35 @@ https://github.com/seanpm2001/DMail_Docs
 https://github.com/seanpm2001/DMail_Tacklebox
 https://github.com/seanpm2001/DMAIL_TackleBox_Docs
 
-//// DMAIL SpamBox (1)
+//// DMAIL SpamBox (2)
 
 https://github.com/seanpm2001/DMail_SpamBox
+https://github.com/seanpm2001/DMail_SpamBox_Docs
 
 //// DMAIL SpamCan (2)
 
 https://github.com/seanpm2001/DMAIL_SpamCan
 https://github.com/seanpm2001/DMAIL_SpamCan_Docs
 
-//// DMAIL Migrator (1)
+//// DMAIL Migrator (2)
 
 https://github.com/seanpm2001/DMail_Migrator
+https://github.com/seanpm2001/DMail_Migrator_Docs
 
 //// DMAIL Stamps (2)
 
 https://github.com/seanpm2001/DMAIL_Stamps
 https://github.com/seanpm2001/DMAIL_Stamps_Docs
 
-//// DMAIL Settings (1)
+//// DMAIL Settings (2)
 
 https://github.com/seanpm2001/DMAIL_Settings
+https://github.com/seanpm2001/DMAIL_Settings_Docs
 
-//// DMAIL EmailFX (1)
+//// DMAIL EmailFX (2)
+
 https://github.com/seanpm2001/DMAIL_EmailFX
+https://github.com/seanpm2001/DMAIL_EmailFX_Docs
 
 //// DMAIL PostOffice (2)
 
@@ -135,8 +140,8 @@ https://github.com/seanpm2001/DMAIL_Filters_Sieve
 https://github.com/seanpm2001/DMAIL_Filters_Sieve_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (DMAIL): 48
-//// 1+1+2+1+2+1+2+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1+2+2+2=48
+//// Repo count (DMAIL): 52
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1+2+2+2=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -178,15 +183,15 @@ https://github.com/seanpm2001/MailOS
 //// Repo count (See also): 8
 //// 1+1+1+1+1+1+1+1=8
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 56
-//// 48+8=56
+//// Total repo count: 60
+//// 52+8=60
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Tuesday, January 28th at 03:18 pm PST)
-//// Line count (including blank lines and compiler line): 193
+//// File version: 3 (2025, Thursday, February 27th at 05:08 pm PST)
+//// Line count (including blank lines and compiler line): 198
 //// ----------------------------------------------------- \\\\
 
 //// End of file
